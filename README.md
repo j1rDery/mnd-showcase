@@ -74,7 +74,7 @@ The platform was deployed using actual client content and assets.
 
 The owner can manage the platform through a custom CMS interface.
 
-![CMS Client Content](screenshots/cms-client-content-p.png)
+![CMS Client Content](screenshots/cms-client-content.png)
 
 ---
 
