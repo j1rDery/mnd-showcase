@@ -263,3 +263,6 @@ The focus was never:
 The focus was:
 
 > "How much quality can we deliver with what we have?"
+
+---
+![Visitor Count](https://views.gonzalohirsch.com/gh?user=j1rDery&repo=aireenshop-showcase)
