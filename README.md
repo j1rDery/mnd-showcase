@@ -265,4 +265,4 @@ The focus was:
 > "How much quality can we deliver with what we have?"
 
 ---
-[![Visitor Count](https://komarev.com/ghpvc/?username=j1rDery&repo=mnd-showcase&color=brightorange)](https://github.com/j1rDery/mnd-showcase)
+[![Visitor Count](https://komarev.com/ghpvc/?username=j1rDery&repo=mnd-showcase&color=yellow)](https://github.com/j1rDery/mnd-showcase)
